@@ -1,0 +1,6 @@
+{
+  "name": "ProjectCraft - School Project & Presentation Blueprint Solver",
+  "description": "An interactive homework and assignment blueprint generator for students and parents. Enter grade level and topic to create step-by-step project plans, slide deck outlines, trifold science poster layouts, and presentation practice flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
